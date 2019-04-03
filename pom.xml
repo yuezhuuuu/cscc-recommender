@@ -14,6 +14,39 @@
     </properties>
 
     <dependencies>
+        <!-- cc.kave -->
+        <dependency>
+            <groupId>cc.kave</groupId>
+            <artifactId>cc.kave.root</artifactId>
+            <version>0.0.5</version>
+            <type>pom</type>
+        </dependency>
+        <dependency>
+            <groupId>cc.kave</groupId>
+            <artifactId>cc.kave.commons</artifactId>
+            <version>0.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>cc.kave</groupId>
+            <artifactId>cc.kave.rsse.calls</artifactId>
+            <version>0.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>cc.kave</groupId>
+            <artifactId>cc.kave.testcommons</artifactId>
+            <version>0.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>cc.kave</groupId>
+            <artifactId>cc.kave.caret</artifactId>
+            <version>0.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>cc.kave.repackaged</groupId>
+            <artifactId>cc.kave.repackaged.jayes</artifactId>
+            <version>0.0.2</version>
+        </dependency>
+        <!-- cc.kave end-->
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
